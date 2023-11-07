@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Personal_Portfolio</string>
+    <string name="dummyText">"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam eum explicabo."</string>
+    <string name="project_name">Projects</string>
+    <string name="user_profile">Profile</string>
+    <string name="user_name">Wilfred Muchire</string>
+    <string name="users_mode">Online</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="introduction">Intro</string>
+    <string name="Introduction">Introduction information to be written here.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam eum explicabo.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam eum explicabo.</string>
+    <string name="Users_locations_data">I live in Kenya, Nyeri, in the \n central region.</string>
+    <string name="users_phone_number">0114139590</string>
+    <string name="Users_mail">logincoin40@gmail.com</string>
+    <string name="Interests">Interests</string>
+    <string name="projects">Projects</string>
+    <string name="home">Home</string>
+    <string name="user_account">Profile</string>
+    <string name="Project_description">Project Description</string>
+    <string name="project_problem">Problem Handled</string>
+    <string name="download_file">Download</string>
+    <string name="like">Like</string>
+    <string name="Follow_project">Follow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Project titles    -->
+    <string name="brick_Breaker_game">Brick breaker game app.</string>
+    <string name="calculator">Calculator app.</string>
+    <string name="city_Music_Player">City Music Player app.</string>
+    <string name="foodator">Food ordering app.</string>
+    <string name="login_register_app">Login Register app.</string>
+    <string name="quiz_app">Quiz app.</string>
+    <string name="weather_app">Weather app.</string>
+    <string name="tic_tac_toe">Tic Tac Toe app.</string>
+
+    <!-- Project subtitles  -->
+    <string name="tle_brick_breaker">ANDROID GAMES APP</string>
+    <string name="tle_calculator">CALCULATOR APP</string>
+    <string name="tle_music_app">MUSIC APP</string>
+    <string name="tle_food_ordering">FOOD ORDERING APP</string>
+    <string name="tle_login_register">LOGIN REGISTER IMPLEMENTATION</string>
+    <string name="tle_quiz_app"> LEARNING APP</string>
+    <string name="tle_weather"> WEATHER FORECASTING APP</string>
+    <string name="tle_tic_tack_toe">TIC TAC TOE GAME</string>
+
+    <!-- project descriptions -->
+    <string name="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+
+    <!-- project view    -->
+    <string name="projectViews">1000</string>
+
+    <!-- viewers total   -->
+    <string name="k">K</string>
+
+
+</resources>
